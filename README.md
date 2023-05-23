@@ -1,2 +1,3 @@
-# rock_paper_scissor
+# rock_paper_scissors
+
 My first JavaScript project!
